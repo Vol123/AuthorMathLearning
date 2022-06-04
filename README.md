@@ -1,2 +1,6 @@
 # Author: Uladzimir Haleta
-## Made is program
+* author.html
+* AythorImage.jpg
+* authorStyles.css
+* Directory.jpg
+* README.md
